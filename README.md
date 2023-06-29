@@ -1,6 +1,6 @@
 ### Hello! 
 
-I am a data scientist with a background in neuroscience, so I live in the crossroads of data, programming, and the brain! My repositories showcase a variety of projects covering animal behavior, human psychophysics, natural language processing, and web scraping.
+I am a data scientist with a background in neuroscience, so I live in the crossroads of data, programming, and the workings of the brain! My repositories showcase a variety of projects covering animal behavior, human psychophysics, natural language processing, and web scraping.
 
 I employ rigorous statistical analysis along with state-of-the-art machine learning tools in order to produce easily interpretable results. 
 
