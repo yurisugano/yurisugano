@@ -1,4 +1,8 @@
 # Sua comunidade na Rede Arte 
+
+## Requerimentos
+- Conta no GitHub. [Crie uma conta](https://github.com/signup?source=login) gratuitamente.
+
 <br>
 
 ## (opcional) Crie um novo repositório
