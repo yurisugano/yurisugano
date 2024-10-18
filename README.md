@@ -1,3 +1,7 @@
+---
+draft: TRUE
+---
+
 
 > [!quote] [Gozaginha (1982)](https://www.youtube.com/watch?v=IYZcsb706q8)
 > ...ninguém quer a morte, só saúde e sorte
