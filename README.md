@@ -94,5 +94,5 @@ Se você compartilha os objetivos abaixo, colabore diretamente com um [[projeto]
 
 
 ---
-draft: TRUE
+draft: true
 ---
