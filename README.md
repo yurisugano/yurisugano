@@ -1,8 +1,3 @@
----
-draft: TRUE
----
-
-
 > [!quote] [Gozaginha (1982)](https://www.youtube.com/watch?v=IYZcsb706q8)
 > ...ninguém quer a morte, só saúde e sorte
 > e a pergunta roda, e a cabeça agita
@@ -98,3 +93,6 @@ Se você compartilha os objetivos abaixo, colabore diretamente com um [[projeto]
 ...e isso não impede que eu repita, é bonita, é bonita e é bonita.
 
 
+---
+draft: TRUE
+---
